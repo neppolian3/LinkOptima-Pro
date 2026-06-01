@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Background Shadow Circle -->
+    <path
+        android:fillColor="#1E293B"
+        android:pathData="M54,16 A38,38 0 1,0 54,92 A38,38 0 1,0 54,16 Z" />
+        
+    <!-- Premium Golden Linked Connection Node 1 -->
+    <path
+        android:fillColor="#EAB308"
+        android:pathData="M38,54 A10,10 0 1,1 50.5,62 L57.5,69 A10,10 0 1,1 45,76 Z" />
+        
+    <!-- Premium Golden Linked Connection Node 2 and center connecting link -->
+    <path
+        android:fillColor="#F59E0B"
+        android:strokeColor="#EAB308"
+        android:strokeWidth="3.5"
+        android:pathData="M48,48 L60,60" />
+        
+    <!-- Node 3 (Top right) -->
+    <path
+        android:fillColor="#EAB308"
+        android:pathData="M57.5,39 A10,10 0 1,1 70,47 L63,40 Z" />
+</vector>

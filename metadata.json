@@ -1,0 +1,6 @@
+{
+  "name": "LinkOptima Pro",
+  "description": "LinkedIn Profile Strategist, Resume Expert & Professional Brand AI Optimizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
